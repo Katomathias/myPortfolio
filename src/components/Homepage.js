@@ -79,7 +79,7 @@ function Homepage() {
           <a href="#" className="facebook"><i className="bx bxl-facebook" /></a>
           <a href="https://instagram.com/katokibirigemathias?igshid=ZDc4ODBmNjlmNQ==" className="instagram"><i className="bx bxl-instagram" /></a>
           <a href="#" className="google-plus"><i className="bx bxl-skype" /></a>
-          <a href="#" className="linkedin"><i className="bx bxl-linkedin" /></a>
+          <a href="https://www.linkedin.com/in/mathias-kato-8a1351245" className="linkedin"><i className="bx bxl-linkedin" /></a>
         </div>
       </div>
       <nav id="navbar" className="nav-menu navbar">

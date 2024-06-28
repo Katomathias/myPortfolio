@@ -28,7 +28,7 @@ With over 3 years of experience in software development, I am deeply passionate 
             <div className="row">
               <div className="col-lg-6">
                 <ul>
-                  <li><i className="bi bi-chevron-right" /> <strong>Birthday:</strong> <span>3 June 2000</span></li>
+                  <li><i className="bi bi-chevron-right" /> <strong>LinkedIn:</strong> <span>mathias-kato-8a1351245</span></li>
                   <li><i className="bi bi-chevron-right" /> <strong>Email:</strong> <span>mathiaskato5@gmail.com</span></li>
                   <li><i className="bi bi-chevron-right" /> <strong>Phone:</strong> <span>+256 700158229</span></li>
                   <li><i className="bi bi-chevron-right" /> <strong>City:</strong> <span>Kampala, UG</span></li>

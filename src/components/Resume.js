@@ -8,9 +8,9 @@ function Resume() {
       <div className="container">
         <div className="section-title">
           <h2>Resume</h2>
-          <p>I am a continuing Student of Bachelors of Science in Software Engineering at Makerere 
-University currently in year 4 who has passion for Data Analysis / Science and programming with 
-java and Python as well.</p>
+          <p>I am a final year Student of Bachelors of Science in Software Engineering at Makerere 
+University currently done with year 4 and awaiting graduation who has passion for Data Analysis / Science and programming with 
+java, JavaScript and Python as well.</p>
         </div>
         <div className="row">
           <div className="col-lg-6" data-aos="fade-up">
