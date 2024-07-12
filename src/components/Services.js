@@ -26,10 +26,10 @@ function Services() {
             <h4 className="title"><a href>UI & UX design</a></h4>
             <p className="description">UI (User Interface) and UX (User Experience) design are two essential components in creating successful digital products. They focus on crafting interfaces that are visually appealing, easy to use, and offer a positive overall user experience.</p>
           </div>
-          <div className="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay={300}>
-            <div className="icon"><i className="bi bi-binoculars" /></div>
-            <h4 className="title"><a href>Graphics design</a></h4>
-            <p className="description">As a graphics designer, I am deeply passionate about the art of visual storytelling and using design elements to communicate messages effectively. With a keen eye for aesthetics and a strong sense of creativity, I craft compelling graphics that leave a lasting impact on audiences.</p>
+          <div className="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay={500}>
+            <div className="icon"><i className="bi bi-calendar4-week" /></div>
+            <h4 className="title"><a href>Mobile App  development</a></h4>
+            <p className="description">I develop cross-platform mobile Apps in both front-end and backend. My projects are found on my github for more details.</p>
           </div>
           <div className="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay={400}>
             <div className="icon"><i className="bi bi-brightness-high" /></div>
@@ -40,6 +40,11 @@ function Services() {
             <div className="icon"><i className="bi bi-calendar4-week" /></div>
             <h4 className="title"><a href>Web development</a></h4>
             <p className="description">I do teach various aspects concerning web development , both front-end and back-end</p>
+          </div>
+          <div className="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay={300}>
+            <div className="icon"><i className="bi bi-binoculars" /></div>
+            <h4 className="title"><a href>Graphics design</a></h4>
+            <p className="description">As a graphics designer, I am deeply passionate about the art of visual storytelling and using design elements to communicate messages effectively. With a keen eye for aesthetics and a strong sense of creativity, I craft compelling graphics that leave a lasting impact on audiences.</p>
           </div>
         </div>
       </div>
